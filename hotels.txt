@@ -1,6 +1,7 @@
-hotel1
+hotel1 updated by feature2
 hotel2
 hotel3
 hotel4
 hotel5
 hotel6
+hotel7 added by feature 2
