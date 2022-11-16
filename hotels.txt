@@ -1,6 +1,6 @@
 hotel1
 hotel2
-hotel3
+hotel3- feature1 changes this line
 hotel4
 hotel5
 hotel6
